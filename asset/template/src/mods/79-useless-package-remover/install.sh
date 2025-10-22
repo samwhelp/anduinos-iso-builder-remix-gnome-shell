@@ -23,7 +23,7 @@ packages=(
     zutty
     update-manager-core
     #gnome-shell-extension-ubuntu-dock
-    libreoffice-*
+    #libreoffice-*
     yaru-theme-unity
     yaru-theme-icon
     yaru-theme-gtk
